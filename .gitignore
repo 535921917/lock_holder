@@ -1,0 +1,23 @@
+# 二进制输出
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# `go test -c` 输出的测试文件
+*.test
+
+# go coverage tool
+*.out
+
+# 杂物
+.DS_Store
+.idea/
+.vscode/
+
+output/
+
+# 日志
+*.log
+
